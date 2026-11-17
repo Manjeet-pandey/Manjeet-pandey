@@ -7,4 +7,4 @@ PDF processing tools on PDFium.
 - [proxy](https://github.com/Manjeet-pandey/proxy): async HTTP reverse proxy in C++20 on Boost.Asio, ~62K req/s.
 - [functiongemma-pong](https://github.com/Manjeet-pandey/functiongemma-pong): Pong where the opponent is a 270M-parameter model making function calls through llama.cpp.
 
-[LinkedIn](https://linkedin.com/in/manjeet-pandey-np) · manjeet.pandey1@gmail.com
+[manjeetpandey.com.np](https://manjeetpandey.com.np) · [LinkedIn](https://linkedin.com/in/manjeet-pandey-np) · manjeet.pandey1@gmail.com
